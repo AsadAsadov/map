@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Universal Lead CRM</title>
+</head>
+<body class="bg-gray-50 p-6">
+    <div class="max-w-7xl mx-auto">
+        <header class="flex justify-between items-center mb-8">
+            <h1 class="text-2xl font-bold text-gray-800">Universal Lead CRM</h1>
+            <button class="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700">Yeni Lead Əlavə Et</button>
+        </header>
+
+        <div class="bg-white p-4 rounded-xl shadow-sm mb-6 flex gap-4 overflow-x-auto">
+            <button onclick="loadGoldenLeads()" class="bg-yellow-500 text-white px-4 py-2 rounded-lg font-bold text-sm">
+                ⚡ Qızıl Lead'lər (No Web + Phone + New)
+            </button>
+            <select class="border rounded-lg px-3 py-2"><option>Kateqoriya</option></select>
+            <select class="border rounded-lg px-3 py-2"><option>Status</option></select>
+        </div>
+
+        <div class="bg-white rounded-xl shadow-sm overflow-hidden">
+            <table class="w-full text-left">
+                <thead class="bg-gray-50 border-b">
+                    <tr>
+                        <th class="p-4">Biznes</th>
+                        <th class="p-4">Telefon</th>
+                        <th class="p-4">Status</th>
+                        <th class="p-4">Əməliyyatlar</th>
+                    </tr>
+                </thead>
+                <tbody id="leadTableBody">
+                    <tr id="placeholderRow"><td colspan="4" class="p-4 text-center text-gray-500">Məlumatları görmək üçün "Qızıl Lead'lər" düyməsini sıxın.</td></tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        async function loadGoldenLeads() {
+            try {
+                // Əgər backend yerli qovluqda işləmirsə, bu hissədə 
+                // ya tam URL (http://localhost:3000/api/leads/golden) istifadə olunmalı, 
+                // ya da backend serveri aktiv olmalıdır.
+                const response = await fetch('/api/leads/golden');
+                
+                if (!response.ok) throw new Error('Server cavab vermədi');
+                
+                const data = await response.json();
+                const body = document.getElementById('leadTableBody');
+                
+                body.innerHTML = data.map(lead => `
+                    <tr class="border-b">
+                        <td class="p-4">${lead.businessName}</td>
+                        <td class="p-4">${lead.phone || '-'}</td>
+                        <td class="p-4"><span class="px-2 py-1 bg-green-100 rounded text-xs">${lead.status}</span></td>
+                        <td class="p-4">
+                            <button class="text-blue-600 hover:underline">WhatsApp</button>
+                        </td>
+                    </tr>
+                `).join('');
+            } catch (error) {
+                console.error("Xəta baş verdi:", error);
+                document.getElementById('leadTableBody').innerHTML = `
+                    <tr><td colspan="4" class="p-4 text-red-500 text-center">
+                        API bağlantısı tapılmadı. Zəhmət olmasa backend serverinin (Node.js) işlək olduğundan əmin olun.
+                    </td></tr>
+                `;
+            }
+        }
+    </script>
+</body>
+</html>
