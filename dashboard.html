@@ -3,17 +3,17 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Universal Lead CRM Admin</title>
+  <title>Universal Lead CRM</title>
   <script src="https://cdn.tailwindcss.com"></script>
-  <style>.btn-light{padding:.45rem .7rem;border-radius:.65rem;background:#f1f5f9;color:#334155;font-size:.8rem;font-weight:600}.btn-light:hover{background:#e2e8f0}.btn-danger{padding:.45rem .7rem;border-radius:.65rem;background:#fee2e2;color:#b91c1c;font-size:.8rem;font-weight:700}.btn-danger:hover{background:#fecaca}.field{width:100%;border:1px solid #cbd5e1;border-radius:.8rem;padding:.7rem .85rem}.label{display:block;font-size:.78rem;font-weight:700;color:#475569;margin-bottom:.35rem} .analytics-list li{display:flex;justify-content:space-between;gap:.75rem}</style>
+  <style>.btn-light{padding:.45rem .7rem;border-radius:.65rem;background:#f1f5f9;color:#334155;font-size:.8rem;font-weight:600}.btn-light:hover{background:#e2e8f0}.btn-danger{padding:.45rem .7rem;border-radius:.65rem;background:#fee2e2;color:#b91c1c;font-size:.8rem;font-weight:700}.btn-danger:hover{background:#fecaca}.field{width:100%;border:1px solid #cbd5e1;border-radius:.8rem;padding:.7rem .85rem}.label{display:block;font-size:.78rem;font-weight:700;color:#475569;margin-bottom:.35rem}</style>
 </head>
 <body class="bg-slate-100 text-slate-800">
   <div id="toastContainer"></div>
   <div id="loadingOverlay" class="hidden fixed inset-0 z-50 bg-slate-900/30 backdrop-blur-sm flex items-center justify-center"><div class="rounded-2xl bg-white px-6 py-5 shadow-xl"><div class="h-8 w-8 border-4 border-blue-600 border-t-transparent rounded-full animate-spin mx-auto mb-3"></div><p id="loadingText" class="font-semibold">Yüklənir...</p></div></div>
   <main class="max-w-7xl mx-auto p-4 sm:p-6 space-y-6">
     <header class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
-      <div><h1 class="text-2xl sm:text-3xl font-black">Universal Lead CRM</h1><p class="text-slate-500">Admin panel: leadlər, kateqoriyalar, CSV və bulk əməliyyatlar</p></div>
-      <div class="flex flex-wrap gap-2"><label class="rounded-xl bg-white px-4 py-3 font-bold text-slate-700 shadow cursor-pointer hover:bg-slate-50">CSV import<input type="file" accept=".csv" class="hidden" onchange="importCsv(this.files[0]); this.value=''"></label><button onclick="openLeadModal()" class="rounded-xl bg-blue-600 px-5 py-3 font-bold text-white shadow hover:bg-blue-700">+ Yeni lead</button></div>
+      <div><h1 class="text-2xl sm:text-3xl font-black">Universal Lead CRM</h1><p class="text-slate-500">Restoran, klinika, salon, mağaza və digər biznes leadləri</p></div>
+      <button onclick="openLeadModal()" class="rounded-xl bg-blue-600 px-5 py-3 font-bold text-white shadow hover:bg-blue-700">+ Yeni lead</button>
     </header>
 
     <section class="grid grid-cols-2 lg:grid-cols-5 gap-3">
@@ -34,19 +34,13 @@
       <input id="searchInput" class="field filter-input" placeholder="Axtarış...">
     </section>
 
-    <section class="grid lg:grid-cols-3 gap-4">
-      <div class="bg-white rounded-2xl p-4 shadow-sm"><h2 class="font-black mb-3">Kateqoriya idarəsi</h2><div class="flex gap-2 mb-3"><input id="newCategoryName" class="field" placeholder="Yeni kateqoriya"><button onclick="addCategory()" class="rounded-xl bg-blue-600 px-4 font-bold text-white">Əlavə et</button></div><div id="categoryList" class="space-y-2"></div></div>
-      <div class="bg-white rounded-2xl p-4 shadow-sm"><h2 class="font-black mb-3">Lead status və bulk</h2><div class="flex flex-wrap gap-2"><select id="bulkStatus" class="field max-w-xs"></select><button onclick="bulkMark()" class="btn-light">Seçilmiş status</button><button onclick="bulkExport()" class="btn-light">Seçilmiş export</button><button onclick="bulkDelete()" class="btn-danger">Seçilmiş sil</button></div><p class="text-sm text-slate-500 mt-3">Cədvəldə checkbox ilə leadləri seçin.</p></div>
-      <div class="bg-white rounded-2xl p-4 shadow-sm"><h2 class="font-black mb-3">Analitika</h2><div class="grid grid-cols-2 gap-3 mb-3"><div class="rounded-xl bg-amber-50 p-3"><p class="text-sm">Website yoxdur</p><b id="analyticsNoWebsite" class="text-2xl">0</b></div><div class="rounded-xl bg-blue-50 p-3"><p class="text-sm">Bu həftə əlaqə</p><b id="analyticsContactedWeek" class="text-2xl">0</b></div></div><div class="grid sm:grid-cols-2 gap-3 text-sm"><div><b>Kateqoriyalar</b><ul id="analyticsCategory" class="analytics-list mt-2 space-y-1"></ul></div><div><b>Statuslar</b><ul id="analyticsStatus" class="analytics-list mt-2 space-y-1"></ul></div></div></div>
-    </section>
-
     <section class="bg-white rounded-2xl shadow-sm overflow-hidden">
       <div class="flex justify-between items-center p-4 border-b"><h2 class="font-black">Leadlər</h2><button onclick="exportCsv()" class="btn-light">CSV export</button></div>
-      <div class="overflow-x-auto"><table class="w-full min-w-[1050px] text-left"><thead class="bg-slate-50 text-sm text-slate-500"><tr><th class="p-3">Seç</th><th class="p-3">Biznes</th><th class="p-3">Kateqoriya</th><th class="p-3">Telefon</th><th class="p-3">Ünvan</th><th class="p-3">Website</th><th class="p-3">Status</th><th class="p-3">Mənbə</th><th class="p-3">Əməliyyatlar</th></tr></thead><tbody id="leadTableBody"></tbody></table></div>
+      <div class="overflow-x-auto"><table class="w-full min-w-[1050px] text-left"><thead class="bg-slate-50 text-sm text-slate-500"><tr><th class="p-3">Biznes</th><th class="p-3">Kateqoriya</th><th class="p-3">Telefon</th><th class="p-3">Ünvan</th><th class="p-3">Website</th><th class="p-3">Status</th><th class="p-3">Mənbə</th><th class="p-3">Əməliyyatlar</th></tr></thead><tbody id="leadTableBody"></tbody></table></div>
     </section>
   </main>
 
   <div id="leadModal" class="hidden fixed inset-0 z-40 bg-slate-900/50 p-4 overflow-y-auto"><div class="bg-white rounded-2xl max-w-4xl mx-auto my-8 p-5 shadow-2xl"><div class="flex justify-between items-center mb-4"><h2 id="modalTitle" class="text-xl font-black">Yeni lead</h2><button onclick="closeLeadModal()" class="text-2xl">×</button></div><form id="leadForm" class="grid md:grid-cols-2 gap-4"><input type="hidden" id="leadId"><label><span class="label">Biznes adı *</span><input name="business_name" id="lead_business_name" class="field" required></label><label><span class="label">Kateqoriya</span><select name="category_id" id="leadCategory" class="field"></select></label><label><span class="label">Şəhər</span><input name="city" id="lead_city" class="field"></label><label><span class="label">Rayon</span><input name="district" id="lead_district" class="field"></label><label class="md:col-span-2"><span class="label">Ünvan</span><input name="address" id="lead_address" class="field"></label><label><span class="label">Telefon</span><input name="phone" id="lead_phone" class="field" placeholder="0501234567"></label><label><span class="label">WhatsApp</span><input name="whatsapp_phone" id="lead_whatsapp_phone" class="field"></label><label><span class="label">Website</span><input name="website" id="lead_website" class="field"></label><label><span class="label">Instagram</span><input name="instagram" id="lead_instagram" class="field"></label><label class="md:col-span-2"><span class="label">Google Maps URL</span><input name="google_maps_url" id="lead_google_maps_url" class="field"></label><label><span class="label">Mənbə</span><input name="source" id="lead_source" class="field"></label><label><span class="label">Status</span><select name="status" id="leadStatus" class="field"></select></label><label><span class="label">Reytinq</span><input name="rating" id="lead_rating" type="number" step="0.1" class="field"></label><label><span class="label">Rəy sayı</span><input name="review_count" id="lead_review_count" type="number" class="field"></label><label><span class="label">Son əlaqə</span><input name="last_contacted_at" id="lead_last_contacted_at" type="datetime-local" class="field"></label><label class="md:col-span-2"><span class="label">Qeydlər</span><textarea name="notes" id="lead_notes" class="field" rows="3"></textarea></label><div class="md:col-span-2 flex justify-end gap-3"><button type="button" onclick="closeLeadModal()" class="btn-light">Bağla</button><button class="rounded-xl bg-blue-600 px-5 py-3 font-bold text-white">Yadda saxla</button></div></form></div></div>
-  <script src="backend_logic.js"></script><script>crmReady(() => bootCrm('admin'));</script>
+  <script src="backend_logic.js"></script><script>crmReady(() => bootCrm('user'));</script>
 </body>
 </html>
