@@ -1,0 +1,2 @@
+import Phaser from "phaser";
+export default class Tree extends Phaser.GameObjects.Container { constructor(scene,x,y,s=1){ super(scene,x,y); const g=scene.add.graphics(); g.fillStyle(0x5b3a1d,1); g.fillRect(-3*s,-14*s,6*s,18*s); g.fillStyle(0x22c55e,1); g.fillCircle(0,-24*s,13*s); g.fillStyle(0x86efac,.9); g.fillCircle(-7*s,-27*s,6*s); this.add(g); scene.add.existing(this); this.setDepth(y); scene.tweens.add({targets:this,angle:{from:-2,to:2},duration:1700+Math.random()*900,yoyo:true,repeat:-1,ease:"Sine.inOut"}); }}
