@@ -1,44 +1,60 @@
 ### CLAIM-0101
 
-Claim:
+Original Claim:
 İnsan mövcudluğa hazır cavabla yox, qəfil verilmiş bir həyatla başlayır.
+Category:
+PHILOSOPHICAL
+Priority:
+P1
 Status:
-NEEDS VERIFICATION
-Evidence level:
+PHILOSOPHICAL
+Source IDs:
+SRC-026
+Evidence:
+Arqument kimi saxlanmalıdır; qarşı arqument və limit ayrıca verilməlidir.
+Confidence:
 Medium
-Source required:
-Institutional/peer-reviewed source required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+Editorial Action:
+QUALIFY
+
+
 
 ### CLAIM-0102
 
-Claim:
+Original Claim:
 Bu fəsildə doğum, erkən yaddaşın məhdudluğu, inkişaf asılılığı mövzusu elmi konsensus və ya açıq problem kimi ayrılmalıdır.
+Category:
+SCIENTIFIC
+Priority:
+P1
 Status:
-NEEDS VERIFICATION
-Evidence level:
-TBD
-Source required:
-Primary/institutional sources required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+PARTIALLY VERIFIED
+Source IDs:
+SRC-026
+Evidence:
+Mənbələr realdır və final cümlə səviyyəsində yenidən yoxlanmalıdır.
+Confidence:
+Medium
+Editorial Action:
+QUALIFY
+
+
 
 ### CLAIM-0103
 
-Claim:
+Original Claim:
 İslami perspektiv: yaradılış, əmanət və imtahan dili yalnız mətnlə yoxlandıqdan sonra.
+Category:
+RELIGIOUS
+Priority:
+P2
 Status:
 RELIGIOUS CLAIM
-Evidence level:
-Textual verification required
-Source required:
-Qurani-Kərim/hədis/tafsir exact reference required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+Source IDs:
+SRC-026
+Evidence:
+Dini mətn səviyyəsində ayrıca yoxlama tələb edir; elm iddiası kimi təqdim edilməməlidir.
+Confidence:
+Medium
+Editorial Action:
+QUALIFY

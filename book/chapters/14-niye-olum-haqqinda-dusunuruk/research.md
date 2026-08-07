@@ -1,44 +1,60 @@
 ### CLAIM-1401
 
-Claim:
+Original Claim:
 Ölüm şüuru qorxuda bilər, amma seçimləri də ciddiləşdirir.
+Category:
+PHILOSOPHICAL
+Priority:
+P1
 Status:
-NEEDS VERIFICATION
-Evidence level:
+PHILOSOPHICAL
+Source IDs:
+SRC-016
+Evidence:
+Arqument kimi saxlanmalıdır; qarşı arqument və limit ayrıca verilməlidir.
+Confidence:
 Medium
-Source required:
-Institutional/peer-reviewed source required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+Editorial Action:
+QUALIFY
+
+
 
 ### CLAIM-1402
 
-Claim:
+Original Claim:
 Bu fəsildə mortality salience, terror management theory, yas psixologiyası mövzusu elmi konsensus və ya açıq problem kimi ayrılmalıdır.
+Category:
+SCIENTIFIC
+Priority:
+P1
 Status:
-NEEDS VERIFICATION
-Evidence level:
-TBD
-Source required:
-Primary/institutional sources required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+PARTIALLY VERIFIED
+Source IDs:
+SRC-016
+Evidence:
+Mənbələr realdır və final cümlə səviyyəsində yenidən yoxlanmalıdır.
+Confidence:
+Medium
+Editorial Action:
+QUALIFY
+
+
 
 ### CLAIM-1403
 
-Claim:
+Original Claim:
 İslami perspektiv: ölümü xatırlamaq ənənəsi ehtiyatla.
+Category:
+RELIGIOUS
+Priority:
+P2
 Status:
-RELIGIOUS CLAIM
-Evidence level:
-Textual verification required
-Source required:
-Qurani-Kərim/hədis/tafsir exact reference required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+NEEDS VERIFICATION
+Source IDs:
+NEEDS VERIFICATION
+Evidence:
+Dini mətn səviyyəsində ayrıca yoxlama tələb edir; elm iddiası kimi təqdim edilməməlidir.
+Confidence:
+Low
+Editorial Action:
+REWRITE

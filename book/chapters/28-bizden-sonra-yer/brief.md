@@ -51,3 +51,43 @@ Təxmini 3 səhifə. Vizual səhifələr bu büdcəyə daxildir.
 
 ## Transition
 Növbəti fəsil: Bizdən sonra insan. Keçid sualı: bu fəslin açıq qoyduğu məsələ növbəti fəsildə hansı yeni tərəfdən görünəcək?
+
+## Opening Scene
+Oxucu Bizdən sonra Yer sualına gündəlik bir səhnədən daxil olur: sakit, konkret və emosional şantajsız başlanğıc.
+
+## Narrative Arc
+Başlanğıc: tanış müşahidə. İnkişaf: elmi və fəlsəfi qatların ayrılması. Dönüş nöqtəsi: sadə cavabın yetməməsi. Nəticə: növbəti suala açıq keçid.
+
+## Scientific Explanation
+Fəslin elmi hissəsi yalnız research.md-dəki claim statuslarına əsaslanacaq; VERIFIED olmayan faktlar ehtiyatlı dildə veriləcək.
+
+## Philosophical Problem
+Əsas problem mexanizm, məna və birinci şəxs təcrübəsinin bir-birinə qarışdırılmadan müzakirəsidir.
+
+## Counterpoint
+Güclü etiraz: bu mövzu üçün metafizik və ya dini qat əlavə etməyə ehtiyac yoxdur; təbii izah kifayətdir.
+
+## Response
+Cavab elmi izahı azaltmadan, fəlsəfi və dini sualları ayrıca səviyyə kimi təqdim edəcək.
+
+## Unknowns
+Açıq qalan suallar knowledge-map.md-dəki kateqoriyalarla uyğunlaşdırılacaq.
+
+## Closing Thought
+Fəsil oxucunu qəti nəticə ilə deyil, daha dəqiq sualla tərk etməlidir.
+
+## Next Chapter Hook
+Növbəti fəsilə keçid bu fəslin cavabsız saxladığı sərhəddən qurulacaq.
+
+## Reader Experience
+HOOK: konkret və insanı dayandıran bir müşahidə.
+CURIOSITY: bu müşahidənin arxasında hansı qatlar var?
+DISCOVERY: elm nəyi izah edir?
+CONFLICT: izah məna sualını bağlayırmı?
+REFLECTION: oxucu öz həyatına daha sakit və ciddi baxır.
+
+## Manuscript Readiness Score
+Research Readiness: 70
+Narrative Readiness: 70
+Source Readiness: 55
+Visual Readiness: 78

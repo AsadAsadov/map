@@ -22,3 +22,14 @@ Mövzunun elmi qatını insan təcrübəsi ilə bağlayan metafor: miqyas, iz, y
 
 ## Art Direction
 Design-system qaydalarına uyğun: dekorativ deyil, konkret fikrə xidmət edən, antropomorfik ilahi təsvirsiz, stock-photo estetikasından uzaq.
+
+## VISUAL-01
+Purpose: Fəslin əsas sualını vizual olaraq açmaq.
+Scene: İnsan təcrübəsi ilə elmi/metafizik miqyas arasında sakit keçid.
+Composition: Minimal mərkəzi fiqur, geniş neqativ məkan, dərin navy fon.
+Subject: Fəslin konkret mövzusuna uyğun insan, kosmos, beyin, zaman və ya mətn motivi.
+Mood: Sakit, ciddi, heyrət doğuran.
+Scientific Accuracy: Elmi obyekt varsa research.md və sources.md ilə yoxlanmalıdır.
+Text Overlay: Yalnız qısa sual; mənbəsiz sitat yoxdur.
+Placement: Chapter opener və ya yarım səhifə.
+Aspect Ratio: 16:9 və çap üçün 4:5 alternativ.

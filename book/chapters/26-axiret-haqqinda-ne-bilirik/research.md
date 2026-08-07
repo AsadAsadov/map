@@ -1,44 +1,60 @@
 ### CLAIM-2601
 
-Claim:
+Original Claim:
 Axirət inanc sahəsidir; mətnə sadiqlik və təvazö vacibdir.
+Category:
+PHILOSOPHICAL
+Priority:
+P0
 Status:
 PHILOSOPHICAL
-Evidence level:
+Source IDs:
+SRC-028
+Evidence:
+Arqument kimi saxlanmalıdır; qarşı arqument və limit ayrıca verilməlidir.
+Confidence:
 Medium
-Source required:
-Institutional/peer-reviewed source required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+Editorial Action:
+QUALIFY
+
+
 
 ### CLAIM-2602
 
-Claim:
+Original Claim:
 Bu fəsildə elm sübut kimi istifadə olunmur mövzusu elmi konsensus və ya açıq problem kimi ayrılmalıdır.
+Category:
+SCIENTIFIC
+Priority:
+P1
 Status:
-NEEDS VERIFICATION
-Evidence level:
-TBD
-Source required:
-Primary/institutional sources required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+PARTIALLY VERIFIED
+Source IDs:
+SRC-028
+Evidence:
+Mənbələr realdır və final cümlə səviyyəsində yenidən yoxlanmalıdır.
+Confidence:
+Medium
+Editorial Action:
+QUALIFY
+
+
 
 ### CLAIM-2603
 
-Claim:
+Original Claim:
 İslami perspektiv: Quran, qiyamət, hesab, cənnət və cəhənnəm.
+Category:
+RELIGIOUS
+Priority:
+P2
 Status:
 RELIGIOUS CLAIM
-Evidence level:
-Textual verification required
-Source required:
-Qurani-Kərim/hədis/tafsir exact reference required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+Source IDs:
+SRC-028
+Evidence:
+Dini mətn səviyyəsində ayrıca yoxlama tələb edir; elm iddiası kimi təqdim edilməməlidir.
+Confidence:
+Medium
+Editorial Action:
+QUALIFY

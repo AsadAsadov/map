@@ -1,58 +1,89 @@
-# Philosophy Research Notes
+# Philosophy Research Notes — Phase 3 Expanded
 
 ## Working rule
 
-Present philosophical arguments as arguments, not as scientific facts. Give strong versions of opposing views before critique.
+Present philosophical arguments as arguments, not as scientific facts. Give strong versions of opposing views before critique. No philosopher, book title or direct quotation enters manuscript without source verification.
 
-## Topics to develop
+## Existence
+ARGUMENT: Contingency arguments ask why there is something rather than nothing and whether contingent reality requires a necessary explanation.
+COUNTERARGUMENT: A naturalist may accept the universe or laws as brute facts, or reject applying ordinary causality to total reality.
+LIMITATION: The argument does not by itself identify a specific religion.
+UNKNOWN: Whether ultimate explanation is necessary, possible or a category mistake remains disputed.
 
-### Existence
-- Why is there something rather than nothing?
-- Cosmological arguments and objections.
-- Contingency, necessity and brute fact positions.
+## Nothingness
+ARGUMENT: Absolute nothingness is not the same as physical vacuum; this distinction prevents pseudo-scientific claims.
+COUNTERARGUMENT: Some philosophers argue “nothing” may be an incoherent target for explanation.
+LIMITATION: Scientific vacuum discussions cannot settle metaphysical nothingness.
+UNKNOWN: Whether absolute nothingness is possible is unresolved.
 
-### Nihilism
-- Distinguish cosmic meaninglessness from personal/social meaninglessness.
-- Avoid caricaturing nihilism as laziness or despair.
+## Consciousness
+ARGUMENT: Subjective experience creates an explanatory challenge beyond behavioral and neural description.
+COUNTERARGUMENT: Physicalists argue better neuroscience may dissolve or explain the gap.
+LIMITATION: The hard problem is not evidence against all neuroscience.
+UNKNOWN: No consensus theory fully explains first-person experience.
 
-### Existentialism
-- Mortality, freedom, anxiety and responsibility.
-- Primary texts require verification before citation.
+## Personal identity
+ARGUMENT: Identity may depend on psychological continuity, embodiment and social recognition rather than a single inner object.
+COUNTERARGUMENT: Bodily-continuity and animalist accounts challenge memory-centered views.
+LIMITATION: Thought experiments do not automatically solve real human identity.
+UNKNOWN: There is no universally accepted criterion of personal identity.
 
-### Consciousness
-- Physicalism, dualism, panpsychism and neutral monism as possible positions.
-- Explain the hard problem without pretending it refutes neuroscience.
+## Free will
+ARGUMENT: Compatibilism can preserve responsibility even if choices arise in causal networks.
+COUNTERARGUMENT: Hard determinists argue causal determination undermines desert-based responsibility.
+LIMITATION: Neuroscience experiments do not alone decide the metaphysical debate.
+UNKNOWN: The relation between agency, causality and moral responsibility remains disputed.
 
-### Free will
-- Determinism, compatibilism, libertarian free will and hard incompatibilism.
-- Include moral responsibility and lived experience.
+## Determinism
+ARGUMENT: Deterministic explanations can make behavior intelligible.
+COUNTERARGUMENT: Human deliberation and responsibility may require a richer vocabulary than prediction.
+LIMITATION: Determinism is not identical with fatalism.
+UNKNOWN: Whether the world is deterministic at all levels is a separate scientific/philosophical issue.
 
-### Mortality
-- Epicurean arguments, existentialist responses, religious hope.
-- Avoid motivational clichés.
+## Mortality
+ARGUMENT: Awareness of death can clarify value, urgency and finitude.
+COUNTERARGUMENT: It can also distort life through anxiety or denial.
+LIMITATION: Mortality reflection should not become motivational cliché.
+UNKNOWN: What, if anything, happens to subjective experience after death is not empirically settled.
 
-### Meaning
-- Meaning as discovered, created, received or practiced.
-- Compare secular and religious accounts fairly.
+## Meaning
+ARGUMENT: Meaning may be discovered, created, received, practiced or shared.
+COUNTERARGUMENT: Nihilist arguments deny cosmic meaning and challenge human projections.
+LIMITATION: Personal meaning does not automatically answer cosmic meaning.
+UNKNOWN: Whether meaning is objective, subjective or relational remains debated.
 
-### Religious philosophy
-- Divine hiddenness.
-- Faith and evidence.
-- Fine-tuning debates.
-- Miracles and testimony.
+## Nihilism
+ARGUMENT: Nihilism forces honesty about scale, mortality and possible meaninglessness.
+COUNTERARGUMENT: Existentialist and religious responses argue meaning can survive cosmic smallness.
+LIMITATION: Nihilism must not be caricatured as laziness or despair.
+UNKNOWN: Whether nihilism is true depends on disputed assumptions about value.
 
-### Problem of evil
-- Logical problem of evil.
-- Evidential problem of evil.
-- Free will defenses.
-- Soul-making theodicies.
-- Islamic approaches to suffering and ultimate justice.
+## Existentialism
+ARGUMENT: Freedom, anxiety and responsibility are central features of human life.
+COUNTERARGUMENT: Religious and naturalist critics may see existentialism as too individual-centered.
+LIMITATION: It cannot replace empirical psychology or theology.
+UNKNOWN: Whether authenticity has a stable criterion is contested.
 
-### Cosmological arguments
-- Kalam cosmological argument.
-- Leibnizian contingency argument.
-- Objections: infinite regress, brute fact, causality beyond spacetime.
+## Problem of evil
+ARGUMENT: Suffering challenges belief in an all-good, all-powerful God.
+COUNTERARGUMENT: Free-will defenses, soul-making accounts and eschatological justice are serious responses.
+LIMITATION: Theodicy must not silence grief or excuse injustice.
+UNKNOWN: Whether any response is emotionally and rationally sufficient remains debated.
 
-## Citation policy
+## Cosmological arguments
+ARGUMENT: Kalam and contingency arguments reason from beginning/contingency to ultimate cause or necessary being.
+COUNTERARGUMENT: Objections include brute fact, infinite regress, and causality beyond spacetime.
+LIMITATION: They require careful formulation and cannot be treated as physics.
+UNKNOWN: How metaphysical causation relates to cosmology is disputed.
 
-Any philosopher, book title or direct quotation must be verified before final manuscript use. Until then mark as `SOURCE VERIFICATION REQUIRED`.
+## Contingency
+ARGUMENT: Contingent things seem to call for explanation beyond themselves.
+COUNTERARGUMENT: The explanatory demand may not apply to the totality of contingent facts.
+LIMITATION: Principle of sufficient reason is debated.
+UNKNOWN: Whether there are necessary concrete beings remains unresolved.
+
+## Religious epistemology
+ARGUMENT: Faith can be understood as trust involving evidence, testimony, practice and moral orientation.
+COUNTERARGUMENT: Critics argue faith may overrun evidence or normalize belief without sufficient reason.
+LIMITATION: Faith must not be presented as anti-reason or as mathematical proof.
+UNKNOWN: The exact threshold for justified religious belief is disputed.
