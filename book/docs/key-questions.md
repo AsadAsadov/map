@@ -1,0 +1,37 @@
+# Güclü Suallar Reestri
+
+- Mən dünyaya gəlməzdən əvvəl harada idim?
+- Bilik sonradan gəlirsə, “mən” necə formalaşır?
+- Biz kosmik miqyasda nə qədər kiçiyik?
+- Bədənimizi təşkil edən maddə haradan gəldi?
+- Cansız maddədən canlı sistemlərə keçid necə mümkün oldu?
+- İnsan təbiətin içindən necə çıxdı?
+- Beyində fiziki proseslər təcrübəyə necə çevrilir?
+- “Mən” bədəndə, yaddaşda, beyində, yoxsa münasibətlərdə başlayır?
+- İnsan niyə öz fikrinin özünə baxa bilir?
+- Seçimlərimiz həqiqətən bizə məxsusdurmu?
+- İndiki günü niyə daim sabaha dəyişirik?
+- Qurduğumuz həyat bizi qoruyur, yoxsa udur?
+- İstədiyimiz şeyə çatanda niyə doyma uzun çəkmir?
+- Ölümü bilmək insan həyatını necə dəyişir?
+- Öləcəyimizi bilib vaxtını bilməmək bizə nə edir?
+- Əgər Allah varsa, niyə varlığını mübahisəsiz göstərmir?
+- Kosmik böyüklük insanın dini mənasını azaldırmı?
+- Əzab və ədalətsizlik Allah inancı ilə necə yanaşı dayana bilər?
+- Həyat müddətindəki bərabərsizliklə necə yaşamaq olar?
+- Əgər hər şey bilinirsə və ya yazılıbsa, seçim nədir?
+- İman bilikdir, güvəndir, seçimdir, yoxsa qarışıqdır?
+- Ölüm bioloji baxımdan nədir?
+- Beyin fəaliyyəti dayananda təcrübə haqqında nə deyə bilərik?
+- Heçliyi təsəvvür etmək mümkündürmü?
+- Ölümdən sonra həyat iddiası hansı növ iddiadır?
+- Dini mənbələr axirət haqqında nə deyir, nəyi bilmirik?
+- Kainatın gələcəyi haqqında nə bilirik və nəyi bilmirik?
+- İnsan yox olsa belə Yer davam edəcəkmi?
+- İnsan növü dəyişəcək, yox olacaq, yoxsa özünü aşacaq?
+- Cavabı tapmadan da ciddi yaşamaq mümkündürmü?
+- Niyə heç nə yox, nəsə var?
+- Mən niyə məhz mənəm?
+- Şüur haradan gəlir?
+- Ölüm zamanı “mən”ə nə olur?
+- Əgər həyat sonludursa, məna haradan gəlir?

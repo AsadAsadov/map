@@ -1,0 +1,53 @@
+# Əgər Allah varsa, niyə kainat bu qədər böyükdür?
+
+## Purpose
+Bu fəsil ümumi səyahətdə oxucunu kosmik böyüklük insanın dini mənasını azaldırmı? sualına yaxınlaşdırır və əvvəlki mərhələdən növbəti intellektual/emotional mərhələyə keçirir. Final mətn yazılmır; məqsəd fəsildə hansı sualların, sərhədlərin və mənbə ehtiyaclarının olacağını dəqiqləşdirməkdir.
+
+## Central Question
+Kosmik böyüklük insanın dini mənasını azaldırmı?
+
+## Core Idea
+Miqyas təkbaşına teist və ya ateist nəticə çıxarmır.
+
+## Reader Journey
+Oxucu fəslin əvvəlində bu mövzunu gündəlik və ya tanış bir fakt kimi görə bilər.
+
+Fəslin sonunda oxucu həmin faktın arxasında elmi məlumat, fəlsəfi gərginlik və ehtiyatlı mənəvi sual olduğunu düşünməyə başlayır.
+
+## Key Sections
+- Açılış sualı və həyat səyahətində yeri.
+- `ELMİN DEDİYİ`: kosmik miqyas, ekzoplanetlər, qalaktikalar.
+- `FƏLSƏFİ SUAL`: fine-tuning, antropik düşüncə, təvazö.
+- `HƏLƏ BİLMİRİK`: sərhədlər və açıq qalan məqamlar.
+- Növbəti fəsilə körpü.
+
+## Scientific Layer
+Araşdırılacaq elmi mövzular: kosmik miqyas, ekzoplanetlər, qalaktikalar. Mənbə prioriteti: rəsmi elmi institutlar, review məqalələri və dərslik səviyyəli mənbələr. Konsensus olmayan nöqtələr açıq göstərilməlidir.
+
+## Philosophical Layer
+Müzakirə olunacaq fəlsəfi xətt: fine-tuning, antropik düşüncə, təvazö. Ən azı iki mövqe verilməli, qarşı tərəf zəifləşdirilməməlidir.
+
+## Islamic Perspective
+göylər və yerin yaradılması. Quran ayəsi və ya hədis yalnız dəqiq surə/ayə, mənbə və kontekst yoxlanandan sonra istifadə edilə bilər. Quran elmi dərslik kimi təqdim edilməməlidir.
+
+## Counterarguments
+- Mövzuya naturalist izahların kifayət etdiyi iddiası.
+- Teoloji və ya metafizik izahların elmi boşluğa yerləşdirilməsi riski.
+- Oxucunun “bu sualın praktik faydası yoxdur” etirazı.
+
+## Things We Do Not Know
+- Bu fəsildə mexanizmlə məna arasındakı sərhəd tam bağlanmır.
+- Mənbəsi yoxlanmamış konkret tarix, ayə, hədis və sitat final mətnə keçməməlidir.
+- Konsensus xarici mövqelər yalnız ehtimal kimi verilə bilər.
+
+## Emotional Tone
+Sakit, düşüncəli, maraq oyadan; qorxu və emosional şantajdan uzaq.
+
+## Visual Direction
+Vizual konsept: sakit siluetdə işıqlanan beyin. Vizual dekorasiya yox, fəslin əsas sualını daşıyan məna elementi olmalıdır.
+
+## Page Budget
+Təxmini 4 səhifə. Vizual səhifələr bu büdcəyə daxildir.
+
+## Transition
+Növbəti fəsil: Əzab niyə var?. Keçid sualı: bu fəslin açıq qoyduğu məsələ növbəti fəsildə hansı yeni tərəfdən görünəcək?
