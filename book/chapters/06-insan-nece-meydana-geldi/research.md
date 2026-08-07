@@ -1,44 +1,60 @@
 ### CLAIM-0601
 
-Claim:
+Original Claim:
 İnsan təkamülü budaqlanan tarixdir, sadə xətti “meymundan insana” sxemi deyil.
+Category:
+SCIENTIFIC
+Priority:
+P0
 Status:
 VERIFIED
-Evidence level:
+Source IDs:
+SRC-007, SRC-008
+Evidence:
+Mənbələr realdır və iddianı ümumi səviyyədə dəstəkləyir; final cümlə dəqiqliyi yenidən yoxlanmalıdır.
+Confidence:
 High
-Source required:
-Smithsonian Human Origins
-Source:
-https://humanorigins.si.edu/education/introduction-human-evolution
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+Editorial Action:
+KEEP
+
+
 
 ### CLAIM-0602
 
-Claim:
+Original Claim:
 Bu fəsildə təbii seçmə, hominin fosilləri, genetika, Homo sapiens mövzusu elmi konsensus və ya açıq problem kimi ayrılmalıdır.
+Category:
+SCIENTIFIC
+Priority:
+P0
 Status:
-NEEDS VERIFICATION
-Evidence level:
-TBD
-Source required:
-Primary/institutional sources required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+VERIFIED
+Source IDs:
+SRC-007, SRC-008
+Evidence:
+Mənbələr realdır və final cümlə səviyyəsində yenidən yoxlanmalıdır.
+Confidence:
+High
+Editorial Action:
+KEEP
+
+
 
 ### CLAIM-0603
 
-Claim:
+Original Claim:
 İslami perspektiv: Adəm və təkamül haqqında müsəlman yanaşmaları fərqli təqdim edilməlidir.
+Category:
+RELIGIOUS
+Priority:
+P2
 Status:
-RELIGIOUS CLAIM
-Evidence level:
-Textual verification required
-Source required:
-Qurani-Kərim/hədis/tafsir exact reference required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+NEEDS VERIFICATION
+Source IDs:
+NEEDS VERIFICATION
+Evidence:
+Dini mətn səviyyəsində ayrıca yoxlama tələb edir; elm iddiası kimi təqdim edilməməlidir.
+Confidence:
+Low
+Editorial Action:
+REWRITE

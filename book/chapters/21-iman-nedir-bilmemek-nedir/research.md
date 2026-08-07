@@ -1,44 +1,60 @@
 ### CLAIM-2101
 
-Claim:
+Original Claim:
 İman hər şeyi bilmək deyil; şübhə də düşüncəsizlik deyil.
+Category:
+PHILOSOPHICAL
+Priority:
+P1
 Status:
 PHILOSOPHICAL
-Evidence level:
+Source IDs:
+SRC-027
+Evidence:
+Arqument kimi saxlanmalıdır; qarşı arqument və limit ayrıca verilməlidir.
+Confidence:
 Medium
-Source required:
-Institutional/peer-reviewed source required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+Editorial Action:
+QUALIFY
+
+
 
 ### CLAIM-2102
 
-Claim:
+Original Claim:
 Bu fəsildə elmi metodun limitləri, qeyri-müəyyənlik mövzusu elmi konsensus və ya açıq problem kimi ayrılmalıdır.
+Category:
+SCIENTIFIC
+Priority:
+P1
 Status:
-NEEDS VERIFICATION
-Evidence level:
-TBD
-Source required:
-Primary/institutional sources required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+PARTIALLY VERIFIED
+Source IDs:
+SRC-027
+Evidence:
+Mənbələr realdır və final cümlə səviyyəsində yenidən yoxlanmalıdır.
+Confidence:
+Medium
+Editorial Action:
+QUALIFY
+
+
 
 ### CLAIM-2103
 
-Claim:
+Original Claim:
 İslami perspektiv: iman, yəqinlik, qeyb.
+Category:
+RELIGIOUS
+Priority:
+P2
 Status:
 RELIGIOUS CLAIM
-Evidence level:
-Textual verification required
-Source required:
-Qurani-Kərim/hədis/tafsir exact reference required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+Source IDs:
+SRC-027
+Evidence:
+Dini mətn səviyyəsində ayrıca yoxlama tələb edir; elm iddiası kimi təqdim edilməməlidir.
+Confidence:
+Medium
+Editorial Action:
+QUALIFY

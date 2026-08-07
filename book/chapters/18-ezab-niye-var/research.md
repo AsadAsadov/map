@@ -1,44 +1,60 @@
 ### CLAIM-1801
 
-Claim:
+Original Claim:
 Şər problemi yüngül cavablarla bağlana bilməz.
+Category:
+PHILOSOPHICAL
+Priority:
+P0
 Status:
 PHILOSOPHICAL
-Evidence level:
+Source IDs:
+SRC-026
+Evidence:
+Arqument kimi saxlanmalıdır; qarşı arqument və limit ayrıca verilməlidir.
+Confidence:
 Medium
-Source required:
-Institutional/peer-reviewed source required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+Editorial Action:
+QUALIFY
+
+
 
 ### CLAIM-1802
 
-Claim:
+Original Claim:
 Bu fəsildə təbii fəlakətlər, xəstəlik, ağrı biologiyası mövzusu elmi konsensus və ya açıq problem kimi ayrılmalıdır.
+Category:
+SCIENTIFIC
+Priority:
+P1
 Status:
-NEEDS VERIFICATION
-Evidence level:
-TBD
-Source required:
-Primary/institutional sources required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+PARTIALLY VERIFIED
+Source IDs:
+SRC-026
+Evidence:
+Mənbələr realdır və final cümlə səviyyəsində yenidən yoxlanmalıdır.
+Confidence:
+Medium
+Editorial Action:
+QUALIFY
+
+
 
 ### CLAIM-1803
 
-Claim:
+Original Claim:
 İslami perspektiv: səbir, imtahan, ədalət, axirət.
+Category:
+RELIGIOUS
+Priority:
+P2
 Status:
 RELIGIOUS CLAIM
-Evidence level:
-Textual verification required
-Source required:
-Qurani-Kərim/hədis/tafsir exact reference required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+Source IDs:
+SRC-026
+Evidence:
+Dini mətn səviyyəsində ayrıca yoxlama tələb edir; elm iddiası kimi təqdim edilməməlidir.
+Confidence:
+Medium
+Editorial Action:
+QUALIFY

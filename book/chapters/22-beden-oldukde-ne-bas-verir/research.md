@@ -1,44 +1,60 @@
 ### CLAIM-2201
 
-Claim:
+Original Claim:
 Bədənin dayanması təsvir edilə bilər; subyektiv təcrübə sualı açıq qalır.
+Category:
+SCIENTIFIC
+Priority:
+P0
 Status:
-NEEDS VERIFICATION
-Evidence level:
+PARTIALLY VERIFIED
+Source IDs:
+SRC-018, SRC-019
+Evidence:
+Mənbələr realdır və iddianı ümumi səviyyədə dəstəkləyir; final cümlə dəqiqliyi yenidən yoxlanmalıdır.
+Confidence:
 Medium
-Source required:
-Institutional/peer-reviewed source required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+Editorial Action:
+QUALIFY
+
+
 
 ### CLAIM-2202
 
-Claim:
+Original Claim:
 Bu fəsildə ürək dayanması, beyin ölümü, hüceyrə parçalanması mövzusu elmi konsensus və ya açıq problem kimi ayrılmalıdır.
+Category:
+SCIENTIFIC
+Priority:
+P0
 Status:
-NEEDS VERIFICATION
-Evidence level:
-TBD
-Source required:
-Primary/institutional sources required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+PARTIALLY VERIFIED
+Source IDs:
+SRC-018, SRC-019
+Evidence:
+Mənbələr realdır və final cümlə səviyyəsində yenidən yoxlanmalıdır.
+Confidence:
+Medium
+Editorial Action:
+QUALIFY
+
+
 
 ### CLAIM-2203
 
-Claim:
+Original Claim:
 İslami perspektiv: cənazə, bədənin faniliyi.
+Category:
+RELIGIOUS
+Priority:
+P2
 Status:
-RELIGIOUS CLAIM
-Evidence level:
-Textual verification required
-Source required:
-Qurani-Kərim/hədis/tafsir exact reference required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+NEEDS VERIFICATION
+Source IDs:
+NEEDS VERIFICATION
+Evidence:
+Dini mətn səviyyəsində ayrıca yoxlama tələb edir; elm iddiası kimi təqdim edilməməlidir.
+Confidence:
+Low
+Editorial Action:
+REWRITE

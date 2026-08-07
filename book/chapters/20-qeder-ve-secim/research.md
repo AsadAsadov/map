@@ -1,44 +1,60 @@
 ### CLAIM-2001
 
-Claim:
+Original Claim:
 Qədər fatalizmə endiriləndə həm din, həm təcrübə təhrif olunur.
+Category:
+PHILOSOPHICAL
+Priority:
+P0
 Status:
 PHILOSOPHICAL
-Evidence level:
+Source IDs:
+NEEDS VERIFICATION
+Evidence:
+Arqument kimi saxlanmalıdır; qarşı arqument və limit ayrıca verilməlidir.
+Confidence:
 Medium
-Source required:
-Institutional/peer-reviewed source required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+Editorial Action:
+QUALIFY
+
+
 
 ### CLAIM-2002
 
-Claim:
+Original Claim:
 Bu fəsildə səbəbiyyət, proqnozlaşdırma limitləri, mürəkkəblik mövzusu elmi konsensus və ya açıq problem kimi ayrılmalıdır.
+Category:
+SCIENTIFIC
+Priority:
+P1
 Status:
 NEEDS VERIFICATION
-Evidence level:
-TBD
-Source required:
-Primary/institutional sources required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+Source IDs:
+NEEDS VERIFICATION
+Evidence:
+Bu ümumi elmi mövzu üçün hələ konkret mənbə bağlanmayıb.
+Confidence:
+Low
+Editorial Action:
+QUALIFY
+
+
 
 ### CLAIM-2003
 
-Claim:
+Original Claim:
 İslami perspektiv: Əşəri, Maturidi, Mötəzili yanaşmaları.
+Category:
+RELIGIOUS
+Priority:
+P2
 Status:
-RELIGIOUS CLAIM
-Evidence level:
-Textual verification required
-Source required:
-Qurani-Kərim/hədis/tafsir exact reference required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+NEEDS VERIFICATION
+Source IDs:
+NEEDS VERIFICATION
+Evidence:
+Dini mətn səviyyəsində ayrıca yoxlama tələb edir; elm iddiası kimi təqdim edilməməlidir.
+Confidence:
+Low
+Editorial Action:
+REWRITE

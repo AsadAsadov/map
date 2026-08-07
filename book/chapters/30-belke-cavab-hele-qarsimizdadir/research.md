@@ -1,44 +1,60 @@
 ### CLAIM-3001
 
-Claim:
+Original Claim:
 Kitab qəti ideologiya ilə yox, dürüst sualvermə ilə bitməlidir.
+Category:
+PHILOSOPHICAL
+Priority:
+P1
 Status:
 PHILOSOPHICAL
-Evidence level:
+Source IDs:
+NEEDS VERIFICATION
+Evidence:
+Arqument kimi saxlanmalıdır; qarşı arqument və limit ayrıca verilməlidir.
+Confidence:
 Medium
-Source required:
-Institutional/peer-reviewed source required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+Editorial Action:
+QUALIFY
+
+
 
 ### CLAIM-3002
 
-Claim:
+Original Claim:
 Bu fəsildə biliyin müvəqqətiliyi, açıq elmi suallar mövzusu elmi konsensus və ya açıq problem kimi ayrılmalıdır.
+Category:
+SCIENTIFIC
+Priority:
+P1
 Status:
 NEEDS VERIFICATION
-Evidence level:
-TBD
-Source required:
-Primary/institutional sources required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+Source IDs:
+NEEDS VERIFICATION
+Evidence:
+Bu ümumi elmi mövzu üçün hələ konkret mənbə bağlanmayıb.
+Confidence:
+Low
+Editorial Action:
+QUALIFY
+
+
 
 ### CLAIM-3003
 
-Claim:
+Original Claim:
 İslami perspektiv: iman və axtarışın birlikdə yaşaması.
+Category:
+RELIGIOUS
+Priority:
+P2
 Status:
-RELIGIOUS CLAIM
-Evidence level:
-Textual verification required
-Source required:
-Qurani-Kərim/hədis/tafsir exact reference required
-Source:
-SOURCE VERIFICATION REQUIRED
-Notes:
-Final manuscript mərhələsində claim konkret cümləyə çevriləndə yenidən yoxlanmalıdır.
+NEEDS VERIFICATION
+Source IDs:
+NEEDS VERIFICATION
+Evidence:
+Dini mətn səviyyəsində ayrıca yoxlama tələb edir; elm iddiası kimi təqdim edilməməlidir.
+Confidence:
+Low
+Editorial Action:
+REWRITE
